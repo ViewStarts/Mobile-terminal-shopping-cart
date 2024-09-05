@@ -1,14 +1,17 @@
-# Vue
+🎯 About
 
-This template should help get you started developing with Vue 3 in Vite.
+一个基于vite创建的vue3选项式项目，一个移动端网页app购物车，包含了增删改查，注册登录头像上传，商品列表、详情等基本功能
 
-## Recommended IDE Setup
+🚀 Technologies
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+技术栈如下:
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+前端
+  ES6
+  vue3选项式
+  vite + vue3 + pinia + router
+  TS
+  Sass
 
 ## Project Setup
 
