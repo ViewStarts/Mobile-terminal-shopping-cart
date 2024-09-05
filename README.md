@@ -13,13 +13,13 @@
 - TS
 - Sass
 
-## Project Setup
+## 下载依赖
 
 ```sh
 pnpm install
 ```
 
-### Compile and Hot-Reload for Development
+### cd到项目文件夹，然后dev启动
 
 ```sh
 pnpm dev
