@@ -25,7 +25,7 @@ pnpm install
 pnpm dev
 ```
 
-### Compile and Minify for Production
+### 打包
 
 ```sh
 pnpm build
